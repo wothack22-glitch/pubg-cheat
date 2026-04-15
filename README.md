@@ -1,4 +1,4 @@
-# PUBG Tool – ESP & Aim Assist Injector (Windows)
+# PUBG Cheat Software for PC – ESP & Aim Assist Injector Tool
 
 A PUBG modification tool for PC providing ESP visualization, aim assist logic, and injector-based module loading.  
 Designed for Windows 10/11 with support for Steam and Krafton launcher versions.
